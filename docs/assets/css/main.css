@@ -2399,3 +2399,9 @@ body.is-touch .main {
     padding: 1em 1em 2em 1em;
   }
 }
+
+.instagram {
+  margin: auto;
+  width: 75%;
+  height: 75%;
+}
